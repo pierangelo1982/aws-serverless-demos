@@ -2,4 +2,6 @@
 
 ## aws lambda
 
-[1 - SAM (AWS Serverless Application Model)](./documentations/sam.md)
+[1 - aws cli](./documentations/aws-cli.md)
+
+[2 - SAM (AWS Serverless Application Model)](./documentations/sam.md)
