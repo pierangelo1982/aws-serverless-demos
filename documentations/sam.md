@@ -30,3 +30,7 @@ run:
 `sam build`
 
 `sam deploy --guided`
+
+delete entire project
+
+`sam delete`
